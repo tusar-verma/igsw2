@@ -3,7 +3,7 @@ geometry: margin=2cm
 output: pdf_document
 ---
 
-## Objetivo
+# Verification
 
 Dada una especificación S de un programa P, proveer una demostración rigurosa de que cualquier ejecución de P cumple con S
 
@@ -23,7 +23,6 @@ float raizCuadrada(int x) {
 }
 
 ```
-
 
 Para esto necesitamos traducir el programa y el contrato a una lógica en común. Una posibilidad es representar la semántica del programa con axiomas. El programa es un teorema del conjuntos de axiomas y reglas de inferencia
 
