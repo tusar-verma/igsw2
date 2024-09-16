@@ -112,3 +112,5 @@ Es un predicado que deben cumplir todas las instancias de la clase. Al llamar a 
 ![](ejemplo_inv_rep.png){width=60%}
 
 ![](helper_inv_rep.png){width=60%}
+
+![](axiomas_algo1.png)
